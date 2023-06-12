@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComiCapy</string>
+    <string name="app_name_with_user">ComiCapy - %s</string>
+
+    <string name="nav_library">My Library</string>
+    <string name="nav_add_comic">Add Comics</string>
+    <string name="nav_settings">App Settings</string>
+
+    <string name="cd_app_icon">App Icon</string>
+    <string name="cd_menu_drawer">Navigation Drawer Icon</string>
+    <string name="cd_search">Search for Comics Icon</string>
+</resources>
